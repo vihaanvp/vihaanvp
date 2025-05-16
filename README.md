@@ -2,7 +2,8 @@
 
 👋🏼 Actual Name: Vihaan Parlikar  
 (🎮 Gamer | 💻 Coder | 🧠 Wannabe Robotics Engineer | 💀 10th Grade Student)  
-📍 Maharashtra, India
+📍 Maharashtra, India  
+([Portfolio](https://vihaanvp.me/))
 
 I'm a high school student passionate about **game development**, **Minecraft**, and **Technology like Robotics**. I love exploring new coding projects (uploaded to GitHub) and playing games (Streaming on Twitch and Videos on YouTube).
 
