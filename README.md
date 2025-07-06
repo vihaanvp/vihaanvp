@@ -58,6 +58,6 @@ _Note: Click the buttons to go to the page_
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@vihaanvp)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/vihaanvp)  
-Email: `vihaanvpyt@outlook.com`
+Email: `vihaan@vihaanvp.me`
 
 > “The way to get started is to quit talking and begin doing.” —Walt Disney
