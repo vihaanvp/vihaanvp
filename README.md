@@ -15,20 +15,49 @@ I'm a high school student passionate about **game development**, **Minecraft**, 
 - 🖥️ Hosted and managed a PaperMC server with custom features (All at home, using available resources).
 
 ## 💼 Skills & Tools
-- **Languages**: Java (With Certification), Python (With Certification), HTML (With Certification), C/C++ (No Certification), C# (No significant knowledge)
-- **Tools**: IntelliJ IDEA, PyCharm, GitHub, Arduino IDE, Visual Studio Code, Unity, Thunkable, Replit
-- **Minecraft Dev**: Paper, Fabric (Sometimes)
-- **Platforms**: GitHub, Replit, VS Code, YouTube, Twitch
+
+**Languages I have used:**  
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white)](#)
+
+**Tools I have some experience in:**  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000?logo=intellij-idea&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
+[![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?logo=arduino&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-000?logo=unity&logoColor=white)](#)
+[![Thunkable](https://img.shields.io/badge/Thunkable-F9AC00?logo=thunkable&logoColor=white)](#)
+[![Replit](https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white)](#)
+
+**Minecraft Development:**  
+[![PaperMC](https://img.shields.io/badge/PaperMC-141414?logo=minecraft&logoColor=white)](#)
+[![Fabric](https://img.shields.io/badge/Fabric-5C5C5C?logo=minecraft&logoColor=white)](#)
+
+**Platforms:**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)
+[![Replit](https://img.shields.io/badge/Replit-667881?logo=replit&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)](#)
 
 ## 📚 Currently Learning
-- Advanced Java and Python
-- Web Development (HTML/CSS/JS)
-- Git and Version Control
-- Game Design & Mechanics
-- School work
+
+[![Java](https://img.shields.io/badge/Advanced_Java-007396?logo=java&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Advanced_Python-3776AB?logo=python&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![Game Design](https://img.shields.io/badge/Game_Design-FF7F50?logo=unity&logoColor=white)](#)
+[![School](https://img.shields.io/badge/School_Work-FFD700?logo=book&logoColor=white)](#)
 
 ## 🔗 My Socials
-- 🔶 YouTube: [youtube.com/@vihaanvp](https://youtube.com/@vihaanvp)
-- 🔷 Twitch: [twitch.tv/vihaanvp](https://twitch.tv/vihaanvp)
 
-> “Keep building, keep learning, and never stop exploring!” 🚀
+_Note: Click the buttons to go to the page_
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@vihaanvp)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://twitch.tv/vihaanvp)  
+Email: `vihaanvpyt@outlook.com`
+
+> “The way to get started is to quit talking and begin doing.” —Walt Disney
