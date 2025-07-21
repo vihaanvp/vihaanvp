@@ -17,7 +17,7 @@ I'm a high school student passionate about **game development**, **Minecraft**, 
 ## 💼 Skills & Tools
 
 **Languages I have used:**  
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)](javascript:void(0))
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white)](#)
@@ -43,7 +43,7 @@ I'm a high school student passionate about **game development**, **Minecraft**, 
 
 ## 📚 Currently Learning
 
-[![Java](https://img.shields.io/badge/Advanced_Java-007396?logo=java&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Advanced_Java-007396?logo=openjdk&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Advanced_Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
