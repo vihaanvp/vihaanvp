@@ -17,7 +17,7 @@ I'm a high school student passionate about **game development**, **Minecraft**, 
 ## 💼 Skills & Tools
 
 **Languages I have used:**  
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff)](javascript:void(0))
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?logo=c&logoColor=white)](#)
