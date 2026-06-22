@@ -1,7 +1,7 @@
 # Hi, I'm VihaanVP!
 
 👋🏼 Actual Name: Vihaan Parlikar  
-(🎮 Gamer | 💻 Coder | 🧠 Wannabe Robotics Engineer | 💀 11th Grade Student)  
+(🎮 Gamer | 💻 Programmer | 🧠 Aspiring Robotics Engineer | 💀 11th Grade Student)  
 📍 Maharashtra, India  
 ([Portfolio](https://vihaanvp.me/))
 
