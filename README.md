@@ -5,7 +5,7 @@
 📍 Maharashtra, India  
 ([Portfolio](https://vihaanvp.me/))
 
-I'm a high school student passionate about **AI engineering**, **Robotics**, **Software Engineering**, and . I love exploring new coding projects (uploaded to GitHub) and playing games (Streaming on Twitch and Videos on YouTube).
+I'm a high school student passionate about **AI engineering**, **Robotics**, **Software Engineering**, and I love exploring new coding projects (uploaded to GitHub) and playing games (Streaming on [Twitch](https://twitch.tv/vihaanvp) and Videos on [YouTube](https://youtube.com/@vihaanvp)).
 
 ## 🚀 Achievements
 - 🤖 Competed in national-level robotics events (e.g., [WRO 2024](https://wroindia.org/season-2024/), [WRO 2025](https://wroindia.org/season-2025/), [Dr. Homibhabha Foundation's RoboQuest](https://drhomibhabha.com/robo_quest_main.php) [Techradiance LFR Championship](https://techradiance.in/line-follower-robot-competition/)).
