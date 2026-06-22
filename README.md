@@ -1,17 +1,17 @@
 # Hi, I'm VihaanVP!
 
 👋🏼 Actual Name: Vihaan Parlikar  
-(🎮 Gamer | 💻 Coder | 🧠 Wannabe Robotics Engineer | 💀 10th Grade Student)  
+(🎮 Gamer | 💻 Coder | 🧠 Wannabe Robotics Engineer | 💀 11th Grade Student)  
 📍 Maharashtra, India  
 ([Portfolio](https://vihaanvp.me/))
 
-I'm a high school student passionate about **game development**, **Minecraft**, and **Technology like Robotics**. I love exploring new coding projects (uploaded to GitHub) and playing games (Streaming on Twitch and Videos on YouTube).
+I'm a high school student passionate about **AI engineering**, **Robotics**, **Software Engineering**, and . I love exploring new coding projects (uploaded to GitHub) and playing games (Streaming on Twitch and Videos on YouTube).
 
 ## 🚀 Achievements
-- 🤖 Competed in national-level robotics events (e.g., [WRO](https://wroindia.org/season-2024/), [Techradiance LFR Championship](https://techradiance.in/line-follower-robot-competition/)).
+- 🤖 Competed in national-level robotics events (e.g., [WRO 2024](https://wroindia.org/season-2024/), [WRO 2025](https://wroindia.org/season-2025/), [Dr. Homibhabha Foundation's RoboQuest](https://drhomibhabha.com/robo_quest_main.php) [Techradiance LFR Championship](https://techradiance.in/line-follower-robot-competition/)).
 - 🧱 Developed custom Minecraft plugins using Java and PaperMC.
 - 📹 Created YouTube tutorials on gaming and some tech topics.
-- 🏅 Sergeant at Arms of Toastmasters Gavel Club of [WGS](https://wockhardtglobalschool.com/) – building public speaking and leadership skills.
+- 🏅 Sergeant at Arms of Toastmasters Gavel Club of [WGS (now FWGS)](https://fwgs.in/) – building public speaking and leadership skills.
 - 🖥️ Hosted and managed a PaperMC server with custom features (All at home, using available resources).
 
 ## 💼 Skills & Tools
